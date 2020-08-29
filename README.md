@@ -6,7 +6,7 @@ A mobile app that provides the transparency consumers demand from the manufactur
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Problem](#problem)
+* [Problem/Challenge](#problem/challenge)
 * [Solution](#Solution)
 * [Idea behind the code](#idea-behind-the-code)
 * [Features](#features)
@@ -26,7 +26,7 @@ This project is created with:
 
 ## Setup
 
-## Problem
+## Problem/Challenge
 In the world, we actually use and consume natural resources 1.75 times faster than our planet can regenerate and restore them. In Sweden, it’s much worse. We consume natural resources FOUR times faster than ecosystems can regenerate them, according to the Global Footprint Network.
 The challenge is mainly concerned with the shift from linear production cycles where products are produced, used, and then disposed of, to a more circular production cycle where products are produced of reused products, which are then reused and recycled into even newer products. 
 
