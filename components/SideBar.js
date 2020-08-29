@@ -23,7 +23,8 @@ export default Sidebar = props => (
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1
+    flex: 1,
+    backgroundColor: "#52C800"
   },
   profile: {
     width: 80,
