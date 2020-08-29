@@ -15,7 +15,8 @@ A mobile app that provides the transparency consumers demand from the manufactur
 * [Contact info](#contact-info)
 ## General info 
 This app was created by FueledByJava for the Stena recycling challenge, during Openhack Gothenburg 2020. 
-#Economy #Environment
+* #Economy 
+* #Environment
 
 ## Screenshots
 
