@@ -1,52 +1,55 @@
-import { StatusBar } from 'expo-status-bar';
-import React from 'react';
-import { StyleSheet, Text, View, Dimensions, Image, FlatList } from 'react-native';
-import Images from './Images.js';
+import React from "react"
 
-export default function App() {
+import {createAppContainer} from 'react-navigation'
+import {createDrawerNavigator} from 'react-navigation-drawer'
+import {Dimensions} from 'react-native'
 
+import {Feather} from '@expo/vector-icons'
+import {
+  HomeScreen,
+  RewardsScreen,
+  ShopScreen,
+  MyRewardsScreen,
+  HotScreen
+} from "./screens"
 
+import SideBar from './components/SideBar'
 
-
-
-  return (
-    <View style={styles.container}>
-    <View style={styles.header}>
-      <Text style={styles.headerText}>reclaim</Text>
-
-    </View>
-
-    <Image
-    style={styles.product}
-    source={require('./images/chair.jpg')} />
-      <StatusBar style="auto" />
-    </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#175',
-    alignItems: 'center',
-    //justifyContent: 'center',
+const DrawerNavigator = createDrawerNavigator({
+  HomeScreen: {
+    screen: HomeScreen,
+    navigationOptions: {
+      title: "Home"
+    }
   },
-  header: {
-    backgroundColor: '#560',
-    height: Dimensions.get('window').height / 6,
-    width: Dimensions.get('window').width,
-    alignItems: 'center',
-    justifyContent: 'center',
+  RewardsScreen: {
+    screen: RewardsScreen,
+    navigationOptions: {
+      title: "Rewards"
+    }
   },
-  headerText: {
-    marginTop: '10%',
-    flex: 1,
-    fontSize: 50,
+  ShopScreen: {
+    screen: ShopScreen,
+    navigationOptions: {
+      title: "Shop"
+    }
   },
-  product: {
-    height: Dimensions.get('window').height / 5,
-    width: Dimensions.get('window').width / 2,
-
+  MyRewardsScreen: {
+    screen: MyRewardsScreen,
+    navigationOptions: {
+      title: "My Rewards"
+    }
+  },
+  HotScreen: {
+    screen: HotScreen,
+    navigationOptions: {
+      title: "Hot items"
+    }
   }
+},
+{
+  contentComponent: props => <SideBar {...props} />
+}
+)
 
-});
+export default createAppContainer(DrawerNavigator);
