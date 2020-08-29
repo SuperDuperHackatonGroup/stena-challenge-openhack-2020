@@ -1,0 +1,12 @@
+{
+  "name": "openhack2020gbg",
+  "displayName": "openhack2020gbg",
+  "expo": {
+    "name": "openhack2020gbg",
+    "slug": "openhack2020gbg",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
