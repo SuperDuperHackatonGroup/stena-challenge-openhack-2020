@@ -6,7 +6,7 @@ A mobile app that provides the transparency consumers demand from the manufactur
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Problem/Challenge](#problem-/-challenge)
+* [Problem / Challenge](#problem-/-challenge)
 * [Solution](#Solution)
 * [Idea behind the code](#idea-behind-the-code)
 * [Features](#features)
