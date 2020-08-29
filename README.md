@@ -1,5 +1,5 @@
 ## reclaim - Buy Use Recycle
-> A mobile app that provides the transparency consumers demand from the manufacturers. 
+A mobile app that provides the transparency consumers demand from the manufacturers. 
 
 ## Table of contents
 * [General info](#general-info)
