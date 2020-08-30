@@ -56,7 +56,7 @@ Once again, we as a group designed this app to focus more on the consumers but o
 
 ## Features
 * Traceable carbon footprints on all products
-* Rewards for choosing enviromentally friendly products
+* Rewards for choosing environmentally friendly products
 * Intelligent item suggestions for the individual
 
 ## Status
