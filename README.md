@@ -27,12 +27,12 @@ This project is created with:
 * [Firebase](https://firebase.google.com/)
 
 ## Setup
-* Make sure you have npm installed with 
+Make sure you have npm installed with 
 ```bash 
 npm --version
 ```
-.
-* Use the package manager [npm](https://www.npmjs.com/get-npm) to install React Native and Firebase by standing in ```stena-challenge-openhack-2020``` and utilizing the following command:
+
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install React Native and Firebase by standing in ```stena-challenge-openhack-2020``` and utilizing the following command:
 ```bash 
 npm i
 ```
@@ -60,7 +60,7 @@ Once again, we as a group designed this app to focus more on the consumers but o
 * Intelligent item suggestions for the individual
 
 ## Status
-* Still in development
+Still in development
 
 ## Inspiration
 
