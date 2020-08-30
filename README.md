@@ -63,6 +63,7 @@ Once again, we as a group designed this app to focus more on the consumers but o
 Still in development
 
 ## Inspiration
+The literal chairman from STENA
 
 ## Contact info
 Contact details for the group members:
