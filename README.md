@@ -71,6 +71,5 @@ Contact details for the group members:
 * Mohammad Eyass Haj – meyasshaj@gmail.com
 * Mislav Miličević – mislav.milicevic22@gmail.com
 * Julia Van Kirk – juliavankirk@gmail.com
-* Navya Pulikandla – 19navya96@gmail.com
 * Enes Akin - denesakin@gmail.com
 
