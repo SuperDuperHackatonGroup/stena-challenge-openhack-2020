@@ -22,11 +22,20 @@ This app was created by FueledByJava for the Stena recycling challenge, during O
 
 ## Technologies
 This project is created with:
-* x
-* y
-* z
+* [npm](https://www.npmjs.com/)
+* [React Native](https://reactnative.dev/)
+* [Firebase](https://firebase.google.com/)
 
 ## Setup
+* Make sure you have npm installed with 
+```bash 
+npm --version
+```
+.
+* Use the package manager [npm](https://www.npmjs.com/get-npm) to install React Native and Firebase by standing in ```stena-challenge-openhack-2020``` and utilizing the following command:
+```bash 
+npm i
+```
 
 ## Problem/Challenge
 In the world, we actually use and consume natural resources 1.75 times faster than our planet can regenerate and restore them. In Sweden, it’s much worse. We consume natural resources FOUR times faster than ecosystems can regenerate them, according to the Global Footprint Network.
@@ -46,8 +55,12 @@ A circular economy has a direct impact on our environment, and it plays one of t
 Once again, we as a group designed this app to focus more on the consumers but our thought process is not limited to this. Consumers, producer, economy and environment are all directly connected to each other. Solving a problem that consumers face will have a positive outcome on the other aspects too.
 
 ## Features
+* Traceable carbon footprints on all products
+* Rewards for choosing enviromentally friendly products
+* Intelligent item suggestions for the individual
 
 ## Status
+* Still in development
 
 ## Inspiration
 
