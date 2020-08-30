@@ -39,6 +39,11 @@ We will license our software to corporations, wherein they can fill out the nece
  
 
 ## Idea behind the code
+Reclaim is an app designed to encourage consumers to make purchases with the environment in mind. As mentioned in [solution](#solution) we designed this app to help consumers, environment and the economy. By encouraging consumers to make environmentally friendly purchases, we get a step closer to achieving and sustaining a circular economy. 
+ 
+A circular economy has a direct impact on our environment, and it plays one of the most important roles in reducing our carbon footprints. We should abandon the traditional linear value chain and reduce our waste as soon as possible. The impact of this effort might not be seen in the short run, but its positive effects on our environment will certainly be seen in the long run. 
+ 
+Once again, we as a group designed this app to focus more on the consumers but our thought process is not limited to this. Consumers, producer, economy and environment are all directly connected to each other. Solving a problem that consumers face will have a positive outcome on the other aspects too.
 
 ## Features
 
